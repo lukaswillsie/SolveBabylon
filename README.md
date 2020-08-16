@@ -1,1 +1,2 @@
 # SolveBabylon
+I'm going to use this repository for a fun cross-discipline experiment. I'm going to use my knowledge of game theory to try and solve the game Babylon (https://boardgamegeek.com/boardgame/7553/babylon). It's a simple game, takes about 5 minutes to play, and involves players taking turns stacking multi-coloured tiles until one player has no legal moves left. First, I'm going to design a tree-based data structure to represent and then subsequently solve multi-stage games like this one, and then I'm going to use that data structure to solve Babylon.
